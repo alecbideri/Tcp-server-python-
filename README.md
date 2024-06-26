@@ -10,12 +10,6 @@ This repository contains a simple multithreaded TCP server implemented in Python
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
-- [Potential Applications](#potential-applications)
-- [Limitations](#limitations)
-- [Improvements](#improvements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Further Reading](#further-reading)
 
 ## Installation
 
