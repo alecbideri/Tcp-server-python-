@@ -13,8 +13,8 @@ This repository contains scripts for a TCP socket server that allows multiple cl
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tcp-socket-server.git
-   cd tcp-socket-server
+   git clone https://github.com/alecbideri/Tcp-server-python-.git
+   cd Tcp-server-python-
 
 ### Explanation:
 
